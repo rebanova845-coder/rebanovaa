@@ -1,0 +1,6 @@
+name = "rebanovaa"
+main = "server.ts"
+compatibility_date = "2026-11-12"
+
+[assets]
+directory = "./dist"
